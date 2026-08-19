@@ -93,7 +93,7 @@ export default function MLAS4Popup() {
                 <p className="mlas4-subtitle">Machine Learning Accelerator Summit</p>
 
                 <div className="mlas4-date-chip">
-                  Date: Coming Soon
+                  Dates: 12–13th September, 2026
                 </div>
 
                 <p className="mlas4-description">
@@ -103,11 +103,13 @@ export default function MLAS4Popup() {
 
               <div className="mlas4-footer">
                 <a
-                  href="#"
+                  href="https://mlas.ieee-jaduniv.in/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="mlas4-cta-btn"
-                  onClick={(e) => { e.preventDefault(); handleClose(); }}
+                  onClick={handleClose}
                 >
-                  Stay Tuned →
+                  Visit Website →
                 </a>
 
                 <label className="mlas4-dont-show">
