@@ -2,11 +2,10 @@
     {
         "id": 0,
         "name": "MLAS 4.0",
-        "description": "MLAS 4.0 is back! A 2-day deep dive into Machine Learning fundamentals — expert-led sessions, hands-on workshops, and exclusive goodies. Registration opening soon — stay tuned!",
+        "description": "MLAS 4.0 brought together students for a 2-day deep dive into Machine Learning fundamentals — expert-led sessions, hands-on workshops, and exclusive goodies.",
         "img": "/events/mlas4.webp",
         "link": "https://mlas.ieee-jaduniv.in/",
-        "date": "12-13th September, 2026",
-        "upcoming": true
+        "date": "12-13th September, 2026"
     },
     {
         "id": 2,
